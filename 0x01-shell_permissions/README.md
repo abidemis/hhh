@@ -24,9 +24,9 @@
 
 ## seun project - Tasks
 
-Task 0 - chage your user ID to betty
+Task 0 - change your user ID to betty
 
-Task 1 - print the effective userid of current user
+Task 1 - print the effective user id of current user
 
 Task 2 - print all groups current user is part of
 
